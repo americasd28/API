@@ -1,0 +1,37 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+#user-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.placeholder {
+    font-size: 1.5rem;
+    color: #666;
+}
+
+#pagination {
+    margin-top: 20px;
+}
+
+.page-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.page-btn:hover {
+    background-color: #0056b3;
+}
